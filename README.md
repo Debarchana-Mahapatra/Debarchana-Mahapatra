@@ -6,5 +6,5 @@
 📫 How to reach me :-
 > LINKEDIN - www.linkedin.com/in/debarchana-mahapatra-092294159
 > EMAIL - 123debarchanamahapatra@gmail.com
-> PORTFOLIO -https://github.com/Debarchana-Mahapatra      
+> PORTFOLIO - https://github.com/Debarchana-Mahapatra/Debarchana-Mahapatra-portfolio 
 > PHONE NO - Na
