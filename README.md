@@ -1,6 +1,6 @@
 👋 Hi, I’m @Debarchana-Mahapatra
 👀 I’m interested in Full Stack Development .
-🌱 I’m currently learning Python ,Git and Github .
+🌱 I’m currently learning Bootstrap ,Git and Github .
 🌱 I have a good command on  MYSQL , HTML , HTML5 , CSS , JAVASCRIPT , React.js-vite , Node.js ,JAVA , OOPS , SPRING , SPRINGBOOT ,JDBC with MySQL workbench .
 💞️ I’m looking to collaborate as a FULL STACK DEVELOPER.
 📫 How to reach me :-
